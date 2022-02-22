@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MyLibtest/app/mylist_xj/src/main/res/drawable/item_bg_checked.xml" value="0.29814814814814816" />
+<<<<<<< HEAD
+        <entry key="..\:/MyLibtest/app/mylist_xj/src/main/res/drawable/item_bg_uncheck.xml" value="0.18489583333333334" />
+=======
+>>>>>>> d9ab1257eb9b9a2a3cf41f7466238964e0ca9af2
+        <entry key="..\:/MyLibtest/app/mylist_xj/src/main/res/layout/item_recycler.xml" value="0.3463541666666667" />
+        <entry key="..\:/MyLibtest/app/mylist_xj/src/main/res/layout/myviewlay.xml" value="0.3463541666666667" />
+        <entry key="..\:/MyLibtest/app/src/main/res/layout/activity_main.xml" value="0.125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
