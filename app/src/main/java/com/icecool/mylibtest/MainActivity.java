@@ -33,7 +33,6 @@ public class MainActivity extends AppCompatActivity {
 
                 Toast.makeText(MainActivity.this, "你选了" + datas.get(position).gettxt() + ":"+ datas.get(position).getPlayUrl(), Toast.LENGTH_SHORT).show();
 
-                Toast.makeText(MainActivity.this, "你选了" + datas.get(position).gettxt(), Toast.LENGTH_SHORT).show();
 
             }
         });
@@ -45,7 +44,6 @@ public class MainActivity extends AppCompatActivity {
 
             mv.addData("第"+ i + "集","http://www.cnmv.vip/" + i);
 
-            mv.datalist.add(new info_xianji("第" + i + "集"));
 
         }
     }
